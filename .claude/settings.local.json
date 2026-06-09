@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p scripts)",
+      "Bash(git mv *)",
+      "Bash(mv setup.py scripts/setup.py)",
+      "Bash(python scripts/setup.py)",
+      "PowerShell(cd \"C:\\\\Users\\\\wjdgn\\\\OneDrive\\\\바탕 화면\\\\Geeknews\"; $env:PYTHONUTF8=\"1\"; python scripts/setup.py)"
+    ]
+  }
+}
